@@ -1,6 +1,6 @@
 module github.com/sanjithacks/evm-abi
 
-go 1.19
+go 1.18
 
 require github.com/ethereum/go-ethereum v1.10.26
 
